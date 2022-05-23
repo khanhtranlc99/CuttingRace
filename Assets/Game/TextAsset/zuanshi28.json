@@ -1,0 +1,120 @@
+{
+"skeleton": { "hash": "rQt/2Jjc9b6Ql7P+Y4Yl8QLpHRg", "spine": "3.8.99" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone3", "parent": "root", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "28/zhuanshi_spray_28_001", "bone": "bone3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"28/zhuanshi_spray_28_001": {
+				"28/zhuanshi_spray_28_001": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_003": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_005": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_007": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_009": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_011": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_013": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_015": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_017": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_018": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_019": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_020": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_021": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_022": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_023": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_024": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_025": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_026": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_027": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_028": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_029": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_030": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_031": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_032": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_033": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_034": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_035": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_036": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_037": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_038": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_039": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_040": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_041": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_042": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_043": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_044": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_045": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_046": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_047": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_048": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_049": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_050": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_051": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_052": { "width": 426, "height": 693 },
+				"28/zhuanshi_spray_28_053": { "width": 426, "height": 693 }
+			}
+		}
+	}
+],
+"animations": {
+	"28": {
+		"slots": {
+			"28/zhuanshi_spray_28_001": {
+				"attachment": [
+					{ "name": "28/zhuanshi_spray_28_001" },
+					{ "time": 0.0333, "name": "28/zhuanshi_spray_28_003" },
+					{ "time": 0.0667, "name": "28/zhuanshi_spray_28_005" },
+					{ "time": 0.1, "name": "28/zhuanshi_spray_28_007" },
+					{ "time": 0.1333, "name": "28/zhuanshi_spray_28_009" },
+					{ "time": 0.1667, "name": "28/zhuanshi_spray_28_011" },
+					{ "time": 0.2, "name": "28/zhuanshi_spray_28_013" },
+					{ "time": 0.2333, "name": "28/zhuanshi_spray_28_015" },
+					{ "time": 0.2667, "name": "28/zhuanshi_spray_28_017" },
+					{ "time": 0.3, "name": "28/zhuanshi_spray_28_018" },
+					{ "time": 0.3333, "name": "28/zhuanshi_spray_28_019" },
+					{ "time": 0.3667, "name": "28/zhuanshi_spray_28_020" },
+					{ "time": 0.4, "name": "28/zhuanshi_spray_28_021" },
+					{ "time": 0.4333, "name": "28/zhuanshi_spray_28_022" },
+					{ "time": 0.4667, "name": "28/zhuanshi_spray_28_023" },
+					{ "time": 0.5, "name": "28/zhuanshi_spray_28_024" },
+					{ "time": 0.5333, "name": "28/zhuanshi_spray_28_025" },
+					{ "time": 0.5667, "name": "28/zhuanshi_spray_28_026" },
+					{ "time": 0.6, "name": "28/zhuanshi_spray_28_027" },
+					{ "time": 0.6333, "name": "28/zhuanshi_spray_28_028" },
+					{ "time": 0.6667, "name": "28/zhuanshi_spray_28_029" },
+					{ "time": 0.7, "name": "28/zhuanshi_spray_28_030" },
+					{ "time": 0.7333, "name": "28/zhuanshi_spray_28_031" },
+					{ "time": 0.7667, "name": "28/zhuanshi_spray_28_032" },
+					{ "time": 0.8, "name": "28/zhuanshi_spray_28_033" },
+					{ "time": 0.8333, "name": "28/zhuanshi_spray_28_034" },
+					{ "time": 0.8667, "name": "28/zhuanshi_spray_28_035" },
+					{ "time": 0.9, "name": "28/zhuanshi_spray_28_036" },
+					{ "time": 0.9333, "name": "28/zhuanshi_spray_28_037" },
+					{ "time": 0.9667, "name": "28/zhuanshi_spray_28_038" },
+					{ "time": 1, "name": "28/zhuanshi_spray_28_039" },
+					{ "time": 1.0333, "name": "28/zhuanshi_spray_28_040" },
+					{ "time": 1.0667, "name": "28/zhuanshi_spray_28_041" },
+					{ "time": 1.1, "name": "28/zhuanshi_spray_28_042" },
+					{ "time": 1.1333, "name": "28/zhuanshi_spray_28_043" },
+					{ "time": 1.1667, "name": "28/zhuanshi_spray_28_044" },
+					{ "time": 1.2, "name": "28/zhuanshi_spray_28_045" },
+					{ "time": 1.2333, "name": "28/zhuanshi_spray_28_046" },
+					{ "time": 1.2667, "name": "28/zhuanshi_spray_28_047" },
+					{ "time": 1.3, "name": "28/zhuanshi_spray_28_048" },
+					{ "time": 1.3333, "name": "28/zhuanshi_spray_28_049" },
+					{ "time": 1.3667, "name": "28/zhuanshi_spray_28_050" },
+					{ "time": 1.4, "name": "28/zhuanshi_spray_28_051" },
+					{ "time": 1.4333, "name": "28/zhuanshi_spray_28_052" },
+					{ "time": 1.4667, "name": "28/zhuanshi_spray_28_053" },
+					{ "time": 1.5, "name": null }
+				]
+			}
+		}
+	}
+}
+}

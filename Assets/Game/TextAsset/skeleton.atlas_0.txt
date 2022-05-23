@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzhi5
+  rotate: false
+  xy: 2, 2
+  size: 137, 119
+  orig: 137, 139
+  offset: 0, 8
+  index: -1

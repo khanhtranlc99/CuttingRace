@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078051543117",
+    "project_id": "cutting-rice",
+    "storage_bucket": "cutting-rice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078051543117:android:60745eed600c361c672404",
+        "android_client_info": {
+          "package_name": "com.SStudio.CuttingRice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078051543117-3eg3av0b1aqaea192ie7fmdmjvloihpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD7cQBA2RvNoCNVU-9OFddZRBjoJLYLhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078051543117-3eg3av0b1aqaea192ie7fmdmjvloihpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

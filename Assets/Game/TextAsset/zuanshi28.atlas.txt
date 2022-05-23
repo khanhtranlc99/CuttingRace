@@ -1,0 +1,327 @@
+
+zuanshi28.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+28/zhuanshi_spray_28_001
+  rotate: true
+  xy: 1478, 83
+  size: 99, 98
+  orig: 426, 693
+  offset: 152, 197
+  index: -1
+28/zhuanshi_spray_28_003
+  rotate: false
+  xy: 1367, 82
+  size: 109, 100
+  orig: 426, 693
+  offset: 144, 248
+  index: -1
+28/zhuanshi_spray_28_005
+  rotate: false
+  xy: 1233, 52
+  size: 132, 130
+  orig: 426, 693
+  offset: 133, 287
+  index: -1
+28/zhuanshi_spray_28_007
+  rotate: false
+  xy: 1446, 1368
+  size: 162, 166
+  orig: 426, 693
+  offset: 118, 320
+  index: -1
+28/zhuanshi_spray_28_009
+  rotate: false
+  xy: 421, 394
+  size: 189, 203
+  orig: 426, 693
+  offset: 105, 346
+  index: -1
+28/zhuanshi_spray_28_011
+  rotate: false
+  xy: 421, 599
+  size: 208, 240
+  orig: 426, 693
+  offset: 98, 359
+  index: -1
+28/zhuanshi_spray_28_013
+  rotate: true
+  xy: 1147, 1307
+  size: 227, 297
+  orig: 426, 693
+  offset: 93, 366
+  index: -1
+28/zhuanshi_spray_28_015
+  rotate: true
+  xy: 430, 1286
+  size: 248, 324
+  orig: 426, 693
+  offset: 85, 369
+  index: -1
+28/zhuanshi_spray_28_025
+  rotate: true
+  xy: 1651, 53
+  size: 412, 372
+  orig: 426, 693
+  offset: 0, 321
+  index: -1
+28/zhuanshi_spray_28_026
+  rotate: true
+  xy: 1651, 467
+  size: 421, 385
+  orig: 426, 693
+  offset: 0, 308
+  index: -1
+28/zhuanshi_spray_28_030
+  rotate: true
+  xy: 667, 451
+  size: 426, 573
+  orig: 426, 693
+  offset: 0, 120
+  index: -1
+28/zhuanshi_spray_28_031
+  rotate: true
+  xy: 2, 841
+  size: 426, 663
+  orig: 426, 693
+  offset: 0, 30
+  index: -1
+28/zhuanshi_spray_28_032
+  rotate: false
+  xy: 2, 1269
+  size: 426, 693
+  orig: 426, 693
+  offset: 0, 0
+  index: -1
+28/zhuanshi_spray_28_033
+  rotate: true
+  xy: 430, 1536
+  size: 426, 613
+  orig: 426, 693
+  offset: 0, 80
+  index: -1
+28/zhuanshi_spray_28_034
+  rotate: true
+  xy: 1045, 1536
+  size: 426, 582
+  orig: 426, 693
+  offset: 0, 111
+  index: -1
+28/zhuanshi_spray_28_035
+  rotate: true
+  xy: 612, 47
+  size: 402, 619
+  orig: 426, 693
+  offset: 24, 74
+  index: -1
+28/zhuanshi_spray_28_036
+  rotate: true
+  xy: 667, 879
+  size: 405, 650
+  orig: 426, 693
+  offset: 21, 31
+  index: -1
+28/zhuanshi_spray_28_037
+  rotate: false
+  xy: 1242, 184
+  size: 407, 693
+  orig: 426, 693
+  offset: 19, 0
+  index: -1
+28/zhuanshi_spray_28_038
+  rotate: false
+  xy: 1629, 1328
+  size: 410, 634
+  orig: 426, 693
+  offset: 16, 59
+  index: -1
+28/zhuanshi_spray_28_040
+  rotate: false
+  xy: 2, 146
+  size: 417, 693
+  orig: 426, 693
+  offset: 9, 0
+  index: -1
+28/zhuanshi_spray_28_042
+  rotate: true
+  xy: 1319, 890
+  size: 415, 621
+  orig: 426, 693
+  offset: 11, 0
+  index: -1
+28/zhuanshi_spray_28_049
+  rotate: false
+  xy: 756, 1301
+  size: 389, 233
+  orig: 426, 693
+  offset: 0, 0
+  index: -1
+28/zhuanshi_spray_28_050
+  rotate: true
+  xy: 421, 2
+  size: 390, 181
+  orig: 426, 693
+  offset: 5, 0
+  index: -1
+28/zhuanshi_spray_28_051
+  rotate: true
+  xy: 1942, 925
+  size: 401, 77
+  orig: 426, 693
+  offset: 0, 53
+  index: -1
+28/zhuanshi_spray_28_052
+  rotate: false
+  xy: 2, 69
+  size: 405, 75
+  orig: 426, 693
+  offset: 0, 0
+  index: -1
+28/zhuanshi_spray_28_053
+  rotate: false
+  xy: 1147, 1287
+  size: 27, 18
+  orig: 426, 693
+  offset: 0, 0
+  index: -1
+
+zuanshi282.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+28/zhuanshi_spray_28_017
+  rotate: true
+  xy: 1328, 805
+  size: 278, 323
+  orig: 426, 693
+  offset: 72, 370
+  index: -1
+28/zhuanshi_spray_28_018
+  rotate: true
+  xy: 922, 762
+  size: 295, 326
+  orig: 426, 693
+  offset: 63, 367
+  index: -1
+28/zhuanshi_spray_28_019
+  rotate: false
+  xy: 1734, 1522
+  size: 311, 328
+  orig: 426, 693
+  offset: 54, 365
+  index: -1
+28/zhuanshi_spray_28_020
+  rotate: true
+  xy: 419, 2
+  size: 328, 333
+  orig: 426, 693
+  offset: 45, 360
+  index: -1
+28/zhuanshi_spray_28_021
+  rotate: false
+  xy: 1506, 464
+  size: 345, 339
+  orig: 426, 693
+  offset: 35, 354
+  index: -1
+28/zhuanshi_spray_28_022
+  rotate: false
+  xy: 1078, 53
+  size: 363, 345
+  orig: 426, 693
+  offset: 24, 348
+  index: -1
+28/zhuanshi_spray_28_023
+  rotate: false
+  xy: 1349, 1496
+  size: 383, 354
+  orig: 426, 693
+  offset: 12, 339
+  index: -1
+28/zhuanshi_spray_28_024
+  rotate: false
+  xy: 922, 1059
+  size: 404, 363
+  orig: 426, 693
+  offset: 0, 330
+  index: -1
+28/zhuanshi_spray_28_027
+  rotate: true
+  xy: 2, 328
+  size: 426, 415
+  orig: 426, 693
+  offset: 0, 278
+  index: -1
+28/zhuanshi_spray_28_028
+  rotate: true
+  xy: 885, 1424
+  size: 426, 462
+  orig: 426, 693
+  offset: 0, 231
+  index: -1
+28/zhuanshi_spray_28_029
+  rotate: true
+  xy: 2, 756
+  size: 426, 509
+  orig: 426, 693
+  offset: 0, 184
+  index: -1
+28/zhuanshi_spray_28_039
+  rotate: false
+  xy: 2, 1184
+  size: 413, 666
+  orig: 426, 693
+  offset: 13, 27
+  index: -1
+28/zhuanshi_spray_28_041
+  rotate: false
+  xy: 513, 757
+  size: 407, 665
+  orig: 426, 693
+  offset: 19, 0
+  index: -1
+28/zhuanshi_spray_28_043
+  rotate: true
+  xy: 513, 332
+  size: 423, 563
+  orig: 426, 693
+  offset: 3, 12
+  index: -1
+28/zhuanshi_spray_28_044
+  rotate: true
+  xy: 417, 1424
+  size: 426, 466
+  orig: 426, 693
+  offset: 0, 0
+  index: -1
+28/zhuanshi_spray_28_045
+  rotate: false
+  xy: 1328, 1085
+  size: 426, 337
+  orig: 426, 693
+  offset: 0, 90
+  index: -1
+28/zhuanshi_spray_28_046
+  rotate: false
+  xy: 1078, 400
+  size: 426, 360
+  orig: 426, 693
+  offset: 0, 25
+  index: -1
+28/zhuanshi_spray_28_047
+  rotate: false
+  xy: 1443, 64
+  size: 373, 334
+  orig: 426, 693
+  offset: 0, 0
+  index: -1
+28/zhuanshi_spray_28_048
+  rotate: false
+  xy: 1653, 807
+  size: 381, 276
+  orig: 426, 693
+  offset: 0, 12
+  index: -1
